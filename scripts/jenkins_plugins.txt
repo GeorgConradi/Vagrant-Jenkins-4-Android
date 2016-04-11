@@ -1,0 +1,17 @@
+git
+android-emulator
+android-lint
+build-pipeline-plugin
+categorized-view
+checkstyle
+clone-workspace-scm
+gradle
+greenballs
+job-restrictions
+nested-view
+plain-credentials
+role-strategy
+sectioned-view
+simple-theme-plugin
+sonar
+view-job-filters
